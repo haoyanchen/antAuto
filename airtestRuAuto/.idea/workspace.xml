@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f1100b3-2192-4ef3-9e35-08f37cce80ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/airtestRuAuto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gjl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/log_template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/report.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reuse/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reuse/common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reuse/gamereuse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reuse/img/tpl1637488379134.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reuse/img/tpl1637488412189.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reuse/img/tpl1637491173439.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reuse/img/tpl1637491382786.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reuse/img/tpl1637491961100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reuse/img/tpl1637516135918.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reuse/img/tpl1637516238137.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reuse/img/tpl1637516522093.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reuse/img/tpl1637517719300.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reuse/initialization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reuse/log/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/myRunner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/summary_template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1619460365737.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1619460365737_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1637597450868.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1637597450868_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1637597473914.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1637597473914_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1637597474064.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1637597474064_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1637597536844.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1637597536844_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1637597539896.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1637597539896_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1637598893342.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1637598920837.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1637598998251.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1637599046181.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1637599046181_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1637599047883.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1637599047883_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1637599117039.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1637599117039_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1637599120867.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1637599120867_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1637599416608.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1637599416608_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1637599422807.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1637599446626.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1637599477773.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1637599477773_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1637599481464.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1637599481464_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1637823278503.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1637823278503_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1637823282313.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1637823282313_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638115028944.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638115111160.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638115111160_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638115112913.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638115112913_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638115121985.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638115121985_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638120393010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638120393010_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638120394641.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638120394641_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638120403811.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638120403811_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638120405528.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638120694463.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638120696021.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638120704371.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638120775685.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638120776947.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638120784685.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638120829588.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638120829588_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638120829930.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638120829930_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638120905878.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638120905878_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638120907090.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638120907090_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638120914888.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638120914888_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638120976761.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638120976761_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638120977022.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638120977022_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638121257507.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638121257507_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638121257781.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638121257781_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638121295178.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638121302965.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638121328487.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638121335834.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638121352463.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638121359617.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638121377416.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638121379632.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638121420608.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638121420608_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638121428324.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638121428324_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638121440159.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638121440159_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638121442393.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638121442393_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638121448072.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638121448072_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638121450071.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638121450071_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638121450514.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638121450514_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638121465614.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638121465614_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638122589233.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638122589233_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638122596996.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638122596996_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638122608556.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638122608556_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638122610811.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638122610811_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638122616125.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638122616125_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638122618288.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638122618288_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638122618686.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638122618686_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638122633179.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638122633179_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638122643030.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638122643030_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638122645318.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638122645318_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638122645977.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638153191835.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638153191835_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638153285890.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/1638153291077.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/log/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/tpl1616502023840.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test1.air/tpl1637588126452.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test2.air/log/1619460376153.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test2.air/log/1619460376153_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test2.air/log/1638153194912.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test2.air/log/1638153194912_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test2.air/log/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test2.air/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite/test2.air/tpl1616507525961.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/suite/myRunner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="684">
+              <caret line="98" column="50" lean-forward="true" selection-start-line="98" selection-start-column="50" selection-end-line="98" selection-end-column="50" />
+              <folding>
+                <element signature="e#0#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/suite/myRunner.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="525" />
+    <option name="y" value="129" />
+    <option name="width" value="1020" />
+    <option name="height" value="545" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="airtestRuAuto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="airtestRuAuto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="airtestRuAuto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="airtestRuAuto" type="462c0819:PsiDirectoryNode" />
+              <item name="suite" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/suite/myRunner.py" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="myRunner" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="airtestRuAuto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="F:\python\azlj\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/suite/myRunner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f1100b3-2192-4ef3-9e35-08f37cce80ae" name="Default Changelist" comment="" />
+      <created>1638152578396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638152578396</updated>
+      <workItem from="1638152579585" duration="346000" />
+      <workItem from="1638153104299" duration="847000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1193000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/airtestRuAuto$myRunner.coverage" NAME="myRunner Coverage Results" MODIFIED="1638153275366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/suite/myRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="98" column="50" lean-forward="true" selection-start-line="98" selection-start-column="50" selection-end-line="98" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

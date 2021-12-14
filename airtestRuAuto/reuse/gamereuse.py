@@ -68,28 +68,38 @@ def dialogue(name):
     w, h = shipei()
     if name == "蛮族蚁首领":
         wait(Template(os.getcwd()+"\\reuse\\img\\tpl1637516135918.png", record_pos=(0.064, 0.111), resolution=(2280, 1080)), timeout=60)
-        sleep(2)
+        sleep(3)
         touch([0.465 * w, 0.513 * h])
+        sleep(3)
     elif name == "蚁后":
         wait(Template(os.getcwd()+"\\reuse\\img\\tpl1637516522093.png", record_pos=(0.064, 0.111), resolution=(2280, 1080)), timeout=60)
-        sleep(2)
+        sleep(3)
         touch([0.465 * w, 0.513 * h])
+        sleep(3)
     elif name == "凯撒":
         wait(Template(os.getcwd()+"\\reuse\\img\\tpl1637516731604.png", record_pos=(-0.125, 0.114), resolution=(2280, 1080)), timeout=60)
-        sleep(2)
+        sleep(7)
         touch([0.465 * w, 0.513 * h])
     elif name == "图拉真":
         wait(Template(os.getcwd()+"\\reuse\\img\\tpl1637516765379.png", record_pos=(-0.12, 0.112), resolution=(2280, 1080)), timeout=60)
-        sleep(2)
+        sleep(3)
         touch([0.465 * w, 0.513 * h])
+        sleep(3)
     elif name == "弓骑蚁":
         wait(Template(os.getcwd()+"\\reuse\\img\\tpl1637520746949.png", record_pos=(-0.117, 0.114), resolution=(2280, 1080)), timeout=60)
-        sleep(2)
+        sleep(3)
         touch([0.51 * w, 0.843 * h])
+        sleep(3)
     elif name == "苏拉":
         wait(Template(os.getcwd()+"\\reuse\\img\\tpl1637521786242.png", record_pos=(0.035, 0.11), resolution=(2280, 1080)), timeout=60)
-        sleep(2)
+        sleep(3)
         touch([0.51 * w, 0.843 * h])
+        sleep(3)
+    elif name == "尤利娅":
+        wait(Template(os.getcwd() + "\\reuse\\img\\tpl1637520332110.png", record_pos=(0.035, 0.11), resolution=(2280, 1080)), timeout=60)
+        sleep(3)
+        touch([0.51 * w, 0.843 * h])
+        sleep(3)
 
 
 # 新手真实战斗
@@ -98,11 +108,13 @@ def novice_battle(step):
     # 识别可获取的资源
     if step == 1:
         wait(Template(os.getcwd()+"\\reuse\\img\\tpl1637494225002.png", record_pos=(-0.405, -0.099), resolution=(2280, 1080)), timeout=60)
+        sleep(3)
     # 识别结算
     elif step == 2:
         wait(Template(os.getcwd()+"\\reuse\\img\\tpl1637494770260.png", record_pos=(-0.386, 0.196), resolution=(2280, 1080)), timeout=60)
-        sleep(3)
+        sleep(7)   # 优化
         touch(Template(os.getcwd()+"\\reuse\\img\\tpl1637494818625.png", record_pos=(0.0, 0.202), resolution=(2280, 1080)))
+        sleep(3)
     # 识别历史按钮
     elif step == 3:
         wait(Template(os.getcwd()+"\\reuse\\img\\tpl1637519309012.png", record_pos=(0.035, 0.107), resolution=(2280, 1080)), timeout=60)
@@ -112,6 +124,7 @@ def novice_battle(step):
         touch(Template(os.getcwd()+"\\reuse\\img\\tpl1637519377151.png", record_pos=(0.216, 0.106), resolution=(2280, 1080)))
         sleep(5)
         touch([0.52 * w, 0.879 * h])
+        sleep(10)
 
 
 # 抽卡

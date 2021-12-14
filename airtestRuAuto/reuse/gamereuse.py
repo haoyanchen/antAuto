@@ -74,3 +74,58 @@ def dialogue(name):
         wait(Template(os.getcwd()+"\\reuse\\img\\tpl1637516522093.png", record_pos=(0.064, 0.111), resolution=(2280, 1080)), timeout=60)
         sleep(2)
         touch([0.465 * w, 0.513 * h])
+    elif name == "凯撒":
+        wait(Template(os.getcwd()+"\\reuse\\img\\tpl1637516731604.png", record_pos=(-0.125, 0.114), resolution=(2280, 1080)), timeout=60)
+        sleep(2)
+        touch([0.465 * w, 0.513 * h])
+    elif name == "图拉真":
+        wait(Template(os.getcwd()+"\\reuse\\img\\tpl1637516765379.png", record_pos=(-0.12, 0.112), resolution=(2280, 1080)), timeout=60)
+        sleep(2)
+        touch([0.465 * w, 0.513 * h])
+    elif name == "弓骑蚁":
+        wait(Template(os.getcwd()+"\\reuse\\img\\tpl1637520746949.png", record_pos=(-0.117, 0.114), resolution=(2280, 1080)), timeout=60)
+        sleep(2)
+        touch([0.51 * w, 0.843 * h])
+    elif name == "苏拉":
+        wait(Template(os.getcwd()+"\\reuse\\img\\tpl1637521786242.png", record_pos=(0.035, 0.11), resolution=(2280, 1080)), timeout=60)
+        sleep(2)
+        touch([0.51 * w, 0.843 * h])
+
+
+# 新手真实战斗
+def novice_battle(step):
+    w, h = shipei()
+    # 识别可获取的资源
+    if step == 1:
+        wait(Template(os.getcwd()+"\\reuse\\img\\tpl1637494225002.png", record_pos=(-0.405, -0.099), resolution=(2280, 1080)), timeout=60)
+    # 识别结算
+    elif step == 2:
+        wait(Template(os.getcwd()+"\\reuse\\img\\tpl1637494770260.png", record_pos=(-0.386, 0.196), resolution=(2280, 1080)), timeout=60)
+        sleep(3)
+        touch(Template(os.getcwd()+"\\reuse\\img\\tpl1637494818625.png", record_pos=(0.0, 0.202), resolution=(2280, 1080)))
+    # 识别历史按钮
+    elif step == 3:
+        wait(Template(os.getcwd()+"\\reuse\\img\\tpl1637519309012.png", record_pos=(0.035, 0.107), resolution=(2280, 1080)), timeout=60)
+        sleep(3)
+    # 点击出战
+    elif step == 4:
+        touch(Template(os.getcwd()+"\\reuse\\img\\tpl1637519377151.png", record_pos=(0.216, 0.106), resolution=(2280, 1080)))
+        sleep(5)
+        touch([0.52 * w, 0.879 * h])
+
+
+# 抽卡
+def hero_draw(step):
+    w, h = shipei()
+    if step == "免费":
+        wait(Template(os.getcwd()+"\\reuse\\img\\tpl1637521039934.png", record_pos=(-0.06, 0.177), resolution=(2280, 1080)), timeout=60)
+        sleep(3)
+        touch([0.441 * w, 0.869 * h])
+    elif step == "跳过":
+        wait(Template(os.getcwd()+"\\reuse\\img\\tpl1637521204399.png", record_pos=(0.402, -0.205), resolution=(2280, 1080)), timeout=60)
+        sleep(2)
+        touch([0.465 * w, 0.513 * h])
+    elif step == "继续进化":
+        wait(Template(os.getcwd()+"\\reuse\\img\\tpl1637521250730.png", record_pos=(0.119, 0.187), resolution=(2280, 1080)), timeout=60)
+        sleep(2)
+        touch([0.369 * w, 0.891 * h])
